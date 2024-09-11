@@ -3,4 +3,4 @@ from .chatbot import Api
 from .encrypt import FARNET
 from .trans import Translate
 
-__version__ = "0.8.dev0"
+__version__ = "0.8.dev6"
